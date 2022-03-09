@@ -1,6 +1,6 @@
 👋 Hi, I’m @harshalgohel
 
-👀 Interested in C, C++, Rust, etc.
+👀 Interested in C, C++, Rust.
 
 🌱 Currently learning Kernel Development
 
